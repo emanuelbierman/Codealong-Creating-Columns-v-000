@@ -79,9 +79,9 @@ img, audio, video {
 
 /* LAYOUT */
 .wrapper {
-  /* since the other widths are all relative (percents), 
-  this width property will adjust the width of the entite site */
-  width: 960px; 
+  /* since the other widths are all relative (percents),
+  this width property will adjust the width of the entire site */
+  width: 960px;
   margin: 0 auto;
   background: #eee;
 }
