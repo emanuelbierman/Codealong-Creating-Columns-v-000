@@ -79,7 +79,7 @@ img, audio, video {
 
 /* LAYOUT */
 .wrapper {
-  width: 80px;
+  width: 960px;
   margin: 0 auto;
   background: #eee;
 }
